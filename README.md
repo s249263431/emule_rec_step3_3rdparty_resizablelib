@@ -1,0 +1,2 @@
+# emule_recompilation_step3_3rdparty_resizablelib
+ResizableLib快速缩放窗体控件,一个非常好用的库,自由软件
